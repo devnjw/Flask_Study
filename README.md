@@ -1,17 +1,12 @@
-# Flask_Study
-
-## Flask Web Server Tutorial
+# Flask Web Server Tutorial
 - [How to stucture a Flask-RESTPlus web service for production builds](https://www.freecodecamp.org/news/structuring-a-flask-restplus-web-service-for-production-builds-c2ec676de563/#database-models-and-migration)
 - [한글자료](https://dejavuqa.tistory.com/273)
-## 모든 라이브러리는 conda 가상환경에서 설치했다.
 
-## 수행하게 될 과제 내용:
+### Tutorial Contents:
 
-1. Flask 구조 이해
-2. Flask 
-
-
-### conda 가상환경
-
-
-
+1. Flask 서버 구조 이해
+2. SQLalchemy를 이용한 DB 구축
+3. DB migration 이해
+4. TDD 환경 구축
+5. 로그인 기능 구현
+6. JWT, flask_bcrypt를 이용한 정보 암호화
