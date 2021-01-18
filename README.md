@@ -9,10 +9,9 @@
 3. DB migration 이해
 4. TDD 환경 구축
 5. 로그인 기능 구현
-6. JWT, flask_bcrypt를 이용한 정보 암호화
+6. JWT, flask_bcrypt를 이용한 정보 암호화  
 
-   
-      
+
 - [For the authors complete project](https://github.com/cosmic-byte/flask-restplus-boilerplate)
 <pre>
 <code>
