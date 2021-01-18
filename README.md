@@ -14,6 +14,6 @@
 - [For the authors complete project](https://github.com/cosmic-byte/flask-restplus-boilerplate)
 <pre>
 <code>
-  https://github.com/cosmic-byte/flask-restplus-boilerplate
+  git clone https://github.com/cosmic-byte/flask-restplus-boilerplate
 </code>
 </pre>
